@@ -1,0 +1,9 @@
+.search{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.search__text{
+    margin-right: 1rem !important;
+}

@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+}
+
+.app__heading{
+    text-align: center;
+    margin: 10px;
+}
+
+.forecastCard{
+    margin: 0 10px;
+}

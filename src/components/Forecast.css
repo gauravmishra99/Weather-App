@@ -1,0 +1,16 @@
+.forecasts{
+    display: flex;
+    overflow: scroll;
+    justify-content: space-between;
+}
+
+.forecasts::-webkit-scrollbar{
+    display: none;
+}
+
+.forecasts__cards{
+    margin: 10px;
+    display: block;
+    min-width: max-content;
+}
+
